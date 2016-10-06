@@ -1,0 +1,54 @@
+#art1 {
+	background-color: red;
+	font-size: 1em;
+	font-family: helvetica;
+	color: green;
+	line-height: auto;
+	padding: 0;
+	border: solid 12px black;
+	border-radius: 20px;
+}
+
+#art2 {
+	background-color: green;
+	font-size: .875em;
+	font-family: times;
+	color: gray;
+	line-height: auto;	
+	padding: 2px;
+	border: 10px dashed red;
+	border-radius: 45px;
+}
+
+#art3 {
+	background-color: blue;
+	font-size: 1.25em;
+	font-family: garamond;
+	color: yellow;
+	line-height: auto;
+	padding: 3px;
+	border: 10px solid green;
+	border-radius: 10px;
+}
+
+#art4 {
+	background-color: violet;
+	font-size: 2em;
+	font-family: verdana;
+	color: black;
+	line-height: normal;
+	padding: 0;
+	border: 7px dashed blue;
+	border-radius: 22px;
+}
+
+#art5 {
+	background-color: orange;
+	font-size: .689em;
+	font-family: default;
+	color: violet;
+	line-height: normal;
+	padding: 0;
+	border: 2px solid violet;
+	border-radius: 30px
+}
